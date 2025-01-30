@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richarst12
+- 👋 Hi, I’m @richarst12 (Richa)
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning : Compose
 
