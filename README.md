@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richa Sharma</h1>
 <h3 align="center">Android Engineer | Jetpack Compose Enthusiast | Medium Blogger</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richarst12&label=Profile%20views&color=0e75b6&style=flat" alt="richarst12" />
-</p>
-
 - 🔭 I’m currently working on **Jetpack Compose UI libraries and migration tools**
 
 - 🌱 I’m learning **KMM (Kotlin Multiplatform Mobile)** and **Advanced Android Internals**
