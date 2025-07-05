@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Richa Sharma</h1>
 <h3 align="center">Android Engineer | Jetpack Compose Enthusiast | Medium Blogger</h3>
 
-- 🔭 I’m currently working on **Jetpack Compose UI libraries and migration tools**
+- I’m currently working on **Jetpack Compose UI libraries and migration tools**
 
-- 🌱 I’m learning **KMM (Kotlin Multiplatform Mobile)** and **Advanced Android Internals**
+- I’m learning **KMM (Kotlin Multiplatform Mobile)** and **Advanced Android Internals**
 
-- 💬 Ask me about **Android, Jetpack Compose, MVVM, Dagger, Hilt, and API Integration**
+- Ask me about **Android, Jetpack Compose, MVVM, Dagger, Hilt, and API Integration**
 
-- 📝 I regularly write blogs on [Medium](https://medium.com/@sharmaricha7724)
+- I regularly write blogs on [Medium](https://medium.com/@sharmaricha7724)
 
-- 👀 Looking for exciting opportunities in Android Product-based companies
+- Looking for exciting opportunities in Android Product-based companies
 
-- 📫 How to reach me: **sharmaricharst@gmail.com**
+- How to reach me: **sharmaricharst@gmail.com**
 
 ---
 
