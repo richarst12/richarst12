@@ -3,7 +3,7 @@
 
 - I’m currently working on **Jetpack Compose UI libraries and migration tools**
 
-- I’m learning **KMM (Kotlin Multiplatform Mobile)** and **Advanced Android Internals**
+- Passionate about **Jetpack Compose** and **Advanced Android Internals**
 
 - Ask me about **Android, Jetpack Compose, MVVM, Dagger, Hilt, and API Integration**
 
