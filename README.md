@@ -14,6 +14,14 @@
 - How to reach me: **sharmaricharst@gmail.com**
 
 ---
+### ✍️ Featured Publication
+
+📰 My article was published on **ProAndroidDev**:
+
+👉 [SideEffects in Jetpack Compose – Logging and Beyond](https://medium.com/proandroiddev/sideeffects-in-jetpack-compose-logging-and-beyond-in-jetpack-compose-d0a09f5531c9)
+
+> ✨ Dive deep into how side-effects work in Jetpack Compose and how to debug them efficiently!
+---
 
 ## 🛠️ Tech Stack
 
