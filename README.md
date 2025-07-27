@@ -20,10 +20,9 @@
 👉 [SideEffects in Jetpack Compose – Logging and Beyond](https://medium.com/proandroiddev/sideeffects-in-jetpack-compose-logging-and-beyond-in-jetpack-compose-d0a09f5531c9)  
 ✨ Dive deep into how side-effects work in Jetpack Compose and how to debug them efficiently!
 
-📰 My article was featured in **Android Weekly – Issue #684**:  
+📰 My article was featured in **Android Weekly – [Issue #684](https://androidweekly.net/issues/issue-684)**:  
 👉 [Understanding `derivedStateOf` in Jetpack Compose – Optimize your recompositions](https://sharmaricha7724.medium.com/understanding-derivedstateof-in-jetpack-compose-optimize-your-recompositions-1c8cdbe9a7d5)  
 ✨ Learn how to reduce unnecessary recompositions using `derivedStateOf`, with real examples and internals explained!
-
 
 ---
 
