@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Sharma</h1>
-<h3 align="center">Android Engineer | Jetpack Compose Enthusiast | Medium Blogger</h3>
+<h3 align="center">Android Engineer | Jetpack Compose Enthusiast | Medium Tech Blogger</h3>
 
 - I’m currently working on **Jetpack Compose UI libraries and migration tools**
 
