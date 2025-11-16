@@ -18,26 +18,31 @@ I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, and
 <p align="left">
   <img src="https://img.shields.io/badge/ProAndroidDev-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Weekly-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Droidcon-DB4437?style=flat&logo=android&logoColor=white" />
 </p>
 
 ---
 
 ## ✍️ Featured Publications
 
-📰 Articles published on **ProAndroidDev**:  
+📰 Articles published on **ProAndroidDev** (also featured in **Android Weekly** & **Droidcon**):  
+
 👉 **Kotlin Sealed Classes and Interfaces**  
 https://proandroiddev.com/kotlin-sealed-classes-and-interface-9a90f80d4983  
+📌 Also featured on Droidcon:  
+https://www.droidcon.com/2025/11/13/kotlin-sealed-classes-and-interface/
 
 👉 **Deep Dive into Jetpack Compose Text Views – The Secret Life of Composables**  
 https://proandroiddev.com/deep-dive-into-jetpack-compose-text-views-the-secret-life-of-composable-dea4b12bd725  
-
-✨ Both articles were also highlighted in **Android Weekly**!
+✨ Highlighted in Android Weekly & recognized by Droidcon for deep Compose UI insights.
 
 ---
 
-📰 My article on **SideEffects in Jetpack Compose** published on ProAndroidDev:  
+📰 My article on **SideEffects in Jetpack Compose** (Published on ProAndroidDev):  
 👉 https://medium.com/proandroiddev/sideeffects-in-jetpack-compose-logging-and-beyond-in-jetpack-compose-d0a09f5531c9  
-✨ Deep dive into side-effects, how they work, and debugging techniques.
+📌 Also featured on Droidcon:  
+https://www.droidcon.com/2025/08/06/understanding-sideeffects-in-jetpack-compose-logging-and-beyond-in-compose/  
+✨ A deep dive into side-effects, how they work, and debugging techniques.
 
 📰 Featured in **Android Weekly – Issue #684**:  
 👉 [Understanding `derivedStateOf` in Jetpack Compose – Optimize your recompositions](https://sharmaricha7724.medium.com/understanding-derivedstateof-in-jetpack-compose-optimize-your-recompositions-1c8cdbe9a7d5)  
