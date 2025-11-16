@@ -2,25 +2,32 @@
 <h3 align="center">Android Engineer | Jetpack Compose Enthusiast | Medium Tech Blogger</h3>
 
 - I’m currently working on **Jetpack Compose UI libraries and migration tools**
-
 - Passionate about **Jetpack Compose** and **Advanced Android Internals**
-
 - Ask me about **Android, Jetpack Compose, MVVM, Dagger, Hilt, and API Integration**
-
 - I regularly write blogs on [Medium](https://medium.com/@sharmaricha7724)
-
 - Looking for exciting opportunities in Android Product-based companies
-
 - How to reach me: **sharmaricharst@gmail.com**
 
 ---
+
 ## ✍️ Featured Publications
 
-📰 My article was published on **ProAndroidDev**:  
-👉 [SideEffects in Jetpack Compose – Logging and Beyond](https://medium.com/proandroiddev/sideeffects-in-jetpack-compose-logging-and-beyond-in-jetpack-compose-d0a09f5531c9)  
+📰 My articles published on **ProAndroidDev**:  
+👉 **Kotlin Sealed Classes and Interfaces**  
+https://proandroiddev.com/kotlin-sealed-classes-and-interface-9a90f80d4983  
+
+👉 **Deep Dive into Jetpack Compose Text Views – The Secret Life of Composables**  
+https://proandroiddev.com/deep-dive-into-jetpack-compose-text-views-the-secret-life-of-composable-dea4b12bd725  
+
+✨ Both articles were also highlighted in **Android Weekly**!
+
+---
+
+📰 My article on **SideEffects in Jetpack Compose** published on ProAndroidDev:  
+👉 https://medium.com/proandroiddev/sideeffects-in-jetpack-compose-logging-and-beyond-in-jetpack-compose-d0a09f5531c9  
 ✨ Dive deep into how side-effects work in Jetpack Compose and how to debug them efficiently!
 
-📰 Featured in **Android Weekly – [Issue #684](https://androidweekly.net/issues/issue-684)**:  
+📰 Featured in **Android Weekly – Issue #684**:  
 👉 [Understanding `derivedStateOf` in Jetpack Compose – Optimize your recompositions](https://sharmaricha7724.medium.com/understanding-derivedstateof-in-jetpack-compose-optimize-your-recompositions-1c8cdbe9a7d5)  
 ✨ Learn how to reduce unnecessary recompositions using `derivedStateOf`, with real examples and internals explained!
 
@@ -38,6 +45,7 @@
 - **Database:** Room
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -51,10 +59,10 @@
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="leetcode" />
   </a>
 </p>
+
 ---
 
 *Thank you for visiting! 🚀*
-
 
 <!---
 richarst12/richarst12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
