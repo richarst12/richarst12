@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Richa Sharma</h1>
 <h3 align="center">Android Engineer | Jetpack Compose Enthusiast | Medium Tech Blogger</h3>
 
+## 👩‍💻 About Me  
+I am an Android Engineer with 6+ years of experience building scalable, user-focused mobile apps.  
+I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, and I enjoy exploring Android internals and writing technical blogs that simplify complex concepts for developers.
+
 - I’m currently working on **Jetpack Compose UI libraries and migration tools**
 - Passionate about **Jetpack Compose** and **Advanced Android Internals**
 - Ask me about **Android, Jetpack Compose, MVVM, Dagger, Hilt, and API Integration**
 - I regularly write blogs on [Medium](https://medium.com/@sharmaricha7724)
-- Looking for exciting opportunities in Android Product-based companies
+- Looking for exciting opportunities in Android Product-based companies  
 - How to reach me: **sharmaricharst@gmail.com**
+
+---
+
+## 🏆 Featured In  
+<p align="left">
+  <img src="https://img.shields.io/badge/ProAndroidDev-3DDC84?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Weekly-4285F4?style=flat&logo=google&logoColor=white" />
+</p>
 
 ---
 
 ## ✍️ Featured Publications
 
-📰 My articles published on **ProAndroidDev**:  
+📰 Articles published on **ProAndroidDev**:  
 👉 **Kotlin Sealed Classes and Interfaces**  
 https://proandroiddev.com/kotlin-sealed-classes-and-interface-9a90f80d4983  
 
@@ -25,11 +37,18 @@ https://proandroiddev.com/deep-dive-into-jetpack-compose-text-views-the-secret-l
 
 📰 My article on **SideEffects in Jetpack Compose** published on ProAndroidDev:  
 👉 https://medium.com/proandroiddev/sideeffects-in-jetpack-compose-logging-and-beyond-in-jetpack-compose-d0a09f5531c9  
-✨ Dive deep into how side-effects work in Jetpack Compose and how to debug them efficiently!
+✨ Deep dive into side-effects, how they work, and debugging techniques.
 
 📰 Featured in **Android Weekly – Issue #684**:  
 👉 [Understanding `derivedStateOf` in Jetpack Compose – Optimize your recompositions](https://sharmaricha7724.medium.com/understanding-derivedstateof-in-jetpack-compose-optimize-your-recompositions-1c8cdbe9a7d5)  
-✨ Learn how to reduce unnecessary recompositions using `derivedStateOf`, with real examples and internals explained!
+✨ Learn how to reduce unnecessary recompositions with real examples.
+
+---
+
+## 📚 Currently Learning
+- WebRTC & Real-time Communication  
+- Advanced Compose Compiler internals  
+- App performance optimization & rendering insights  
 
 ---
 
