@@ -8,8 +8,7 @@ I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, and
 - I’m currently working on **Jetpack Compose UI libraries and migration tools**
 - Passionate about **Jetpack Compose** and **Advanced Android Internals**
 - Ask me about **Android, Jetpack Compose, MVVM, Dagger, Hilt, and API Integration**
-- I regularly write blogs on [Medium](https://medium.com/@sharmaricha7724)
-- Looking for exciting opportunities in Android Product-based companies  
+- I regularly write blogs on [Medium](https://medium.com/@sharmaricha7724) 
 - How to reach me: **sharmaricharst@gmail.com**
 
 ---
